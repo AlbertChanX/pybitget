@@ -1,0 +1,6 @@
+include *.md LICENSE
+
+recursive-include bitget *
+
+recursive-exclude bitget __pycache__
+recursive-exclude bitget *.py[co]
