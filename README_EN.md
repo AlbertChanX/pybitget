@@ -11,8 +11,7 @@
 
 1.2 Install required libraries
 ```python
-pip install requests
-pip install websocket-client
+pip install git+https://github.com/AlbertChanX/pybitget@main
 ```
 
 #### Second：Configure Apikey information

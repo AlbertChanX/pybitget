@@ -12,8 +12,7 @@
 
 1.2 安装所需库
 ```python
-pip install requests
-pip install websocket-client
+pip install git+https://github.com/AlbertChanX/pybitget@main
 ```
 
 #### 第二步：配置个人信息
